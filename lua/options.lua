@@ -56,7 +56,7 @@ vim.opt.listchars = { tab = '» ', trail = '·', nbsp = '␣' }
 -- Sets tab width (indentation)
 vim.opt.tabstop = 4
 vim.opt.shiftwidth = 4
-vim.opt.expandtab = true
+vim.opt.expandtab = false
 
 -- Preview substitutions live, as you type!
 vim.opt.inccommand = 'split'
