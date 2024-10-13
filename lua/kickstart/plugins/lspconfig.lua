@@ -194,6 +194,7 @@ return {
             },
           },
         },
+
         volar = {
           filetypes = { 'vue', 'javascript', 'typescript', 'javascriptreact', 'typescriptreact' },
           init_options = {
@@ -223,6 +224,7 @@ return {
         'html-lsp',
         'css-lsp',
         'typescript-language-server',
+        'vue-language-server',
       })
       require('mason-tool-installer').setup { ensure_installed = ensure_installed }
 
