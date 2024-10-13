@@ -196,7 +196,7 @@ return {
         },
 
         volar = {
-          filetypes = { 'vue', 'javascript', 'typescript', 'javascriptreact', 'typescriptreact' },
+          filetypes = { 'vue' },
           init_options = {
             vue = {
               hybridMode = false,
