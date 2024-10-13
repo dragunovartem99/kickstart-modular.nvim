@@ -212,7 +212,6 @@ return {
         'html-lsp',
         'css-lsp',
         'typescript-language-server',
-        'prettierd',
       })
       require('mason-tool-installer').setup { ensure_installed = ensure_installed }
 
