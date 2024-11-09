@@ -11,6 +11,7 @@ return {
         'css',
         'diff',
         'html',
+        'java',
         'javascript',
         'lua',
         'luadoc',

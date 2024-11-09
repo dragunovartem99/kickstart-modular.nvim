@@ -225,6 +225,7 @@ return {
         'css-lsp',
         'typescript-language-server',
         'vue-language-server',
+        'jdtls',
       })
       require('mason-tool-installer').setup { ensure_installed = ensure_installed }
 
