@@ -10,6 +10,7 @@ return {
         'c',
         'css',
         'diff',
+        'go',
         'html',
         'java',
         'javascript',
