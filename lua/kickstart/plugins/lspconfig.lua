@@ -206,6 +206,10 @@ return {
             },
           },
         },
+
+        html = {
+          filetypes = { 'html', 'ejs' },
+        },
       }
 
       -- Ensure the servers and tools above are installed
